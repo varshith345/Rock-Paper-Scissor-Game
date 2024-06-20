@@ -8,9 +8,10 @@ You can play the game [here](https://varshith345.github.io/Rock-Paper-Scissor-Ga
 
 ## Screenshots
 
-![Game Screenshot 1](screenshot1_url)
+![Before Game](https://github.com/varshith345/Rock-Paper-Scissor-Game/assets/137262805/a75e77ad-ca66-4605-9044-7defe22eee7b)
 
-![Game Screenshot 2](screenshot2_url)
+
+![Game ON](https://github.com/varshith345/Rock-Paper-Scissor-Game/blob/main/GameON.png)
 
 ## Technologies Used
 
